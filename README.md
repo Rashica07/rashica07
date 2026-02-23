@@ -64,8 +64,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rashica07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+![Repos I created](https://github-contrib-stats.vercel.app/rashica07/created.svg)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rashica07&icon=3&color=6)](https://visitcount.itsvg.in)
