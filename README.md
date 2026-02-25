@@ -14,6 +14,9 @@ I'm a passionate developer specializing in scalable mobile and web applications.
 
 ---
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+
 ## 🔧 Tech Stack
 
 ### Languages
