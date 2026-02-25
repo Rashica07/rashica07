@@ -1,26 +1,44 @@
 # Project Title
 
-## Overview
-A brief description of your project that emphasizes its purpose and relevance to the organization.
+![GitHub Logo](/images/logo.png)
 
-## Features
-- Feature 1: Highlight the key capabilities of the project.
-- Feature 2: Describe more capabilities that add value to users.
+## 🛠 Tech Stack
+- React
+- Node.js
+- Express
+- MongoDB
 
-## Installation Instructions
-1. Step 1: Explain how to install the project dependencies.
-2. Step 2: Provide guidance for running the project.
+## 🌐 Socials
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
-## Usage
-Offer basic usage instructions, examples, or code snippets for common scenarios.
+## 📊 GitHub Stats
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en)
 
-## Contribution
-Provide guidelines for contributing to the project, ensuring a collaborative effort.
+## ✍️ Overview
+This is a brief overview of your project.
 
-## License
-Include licensing information relevant to the project.
+## ✨ Features
+- Feature 1
+- Feature 2
+- Feature 3
 
----
+## 🚀 Getting Started
+1. Clone the repo
+   ```
+   git clone https://github.com/Rashica07/Rashica07.git
+   ```
+2. Install NPM packages
+   ```
+   npm install
+   ```
+3. Run the app
+   ```
+   npm start
+   ```
 
-### Contact Information
-For further inquiries, please contact [Your Name] at [Your Email].
+## 🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated!**
+
+## 📄 License
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
