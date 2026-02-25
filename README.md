@@ -6,6 +6,11 @@
 
 ---
 
+## 📝 About Me In Depth
+I'm a passionate developer and designer exploring different technologies and building cool projects. I love collaborating with others and constantly learning new things. If you have an interesting project or just want to chat, feel free to reach out!
+
+---
+
 ## 🌐 Socials
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rashica07.bsky.social)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/KristianGjergji)
