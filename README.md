@@ -134,11 +134,13 @@ Contributing to production codebases and working with experienced developers on 
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:newkiqaa@gmail.com)
+
 [
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ](https://github.com/rashica07)
+
 [
 
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -167,4 +169,4 @@ Feel free to reach out to discuss projects or collaboration opportunities. I'm a
 
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
-](https://paypal.me/Kristiani05)
+] (https://paypal.me/Kristiani05)
