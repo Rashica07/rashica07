@@ -14,32 +14,29 @@ I'm a passionate developer specializing in scalable mobile and web applications.
 
 ---
 
-## 🔧 Tech Stack
-
 ### Languages
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 
 ### Frameworks & Libraries
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
 
 ### Databases & Cloud
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 
 ### Tools & DevOps
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 ---
 
 ## 🔭 Current Projects
