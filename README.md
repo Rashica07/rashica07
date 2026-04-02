@@ -48,9 +48,7 @@ A privacy-first social app focused on **real-world action instead of scrolling**
 
 ## 🗄️ Backend & Database
 
-[![Backend](https://skillicons.dev/icons?i=mongodb,firebase,aws,gcp&theme=dark)
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/supabase.png" width="48" />](https://camo.githubusercontent.com/807d55e7bac4dec72ffc6694680a3375e18e7c78f1fe5e9e40b789bb5c5d9011/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73757061626173652c66697265626173652c6d6f6e676f64622c6763702c617773)
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/supabase-icon.svg" width="48"/>
 ---
 
 ## ☁️ DevOps & Tools
