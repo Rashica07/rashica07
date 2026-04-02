@@ -1,63 +1,17 @@
-# 🌀 Spindare
-
-**The Anti-Scroll Social Platform**
-
-Turning digital interaction into real-world action.
-
----
-
-## 🧠 Concept
-
-Spindare is built on a simple idea:
-
-> Social media should not keep you in your phone.  
-> It should push you into the real world.
-
----
-
-## 🎡 Core System
-
-- 🎯 Challenges instead of endless feed  
-- 📸 Action-based posting  
-- 💭 Meaningful reactions (not likes)  
-- 💬 Controlled communication (privacy-first)  
-
----
-
-## 🔒 Philosophy
-
-- No addictive infinite scrolling  
-- No meaningless engagement metrics  
-- No exposure without control  
-
----
-
-## ⚙️ Technology
-
-- Mobile: React Native  
-- Backend: Supabase  
-- Auth: Clerk  
-- AI: Gemini (controlled system prompts)  
-- Messaging: Stream Chat  
-
----
-
-## 🚀 Vision
-
-Spindare is not just another social app.# 💫 Kristian Gjergji
+# 💫 Kristian Gjergji
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&pause=1000&color=00FFAA&width=435&lines=Full-Stack+Developer;Mobile+App+Builder;Building+Spindare;Problem+Solver)
 
 ---
 
-![Spindare Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Spindare&fontSize=50&fontColor=00FFAA&animation=fadeIn&desc=Anti-Scroll%20Social%20Platform)
+![Spindare Banner](https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:203a43&height=180&section=header&text=SPINDARE&fontSize=40&fontColor=00FFAA&animation=fadeIn)
 
 ---
 
 ## 🧠 About Me
 - 🌀 Creator of **Spindare**
-- 📱 Mobile + backend focused
-- 📚 Learning **TypeScript & system design**
+- 📱 Focused on mobile + backend systems
+- 📚 Learning **TypeScript & deeper architecture**
 - ⚡ Building real-world apps
 
 ---
@@ -65,7 +19,7 @@ Spindare is not just another social app.# 💫 Kristian Gjergji
 ## 🚀 Project
 
 ### 🌀 Spindare
-A social app focused on **real-life action instead of scrolling**
+A privacy-first social app focused on **real-world action instead of scrolling**
 
 - 🎡 Challenge-based system  
 - 🔒 Privacy-first architecture  
@@ -80,41 +34,43 @@ A social app focused on **real-life action instead of scrolling**
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+## 🧩 Languages
 ![Langs](https://skillicons.dev/icons?i=js,ts,html,css,python,cpp,csharp,dart&theme=dark)
 
-### Frameworks
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,flutter&theme=dark)
+---
 
-### Backend
-![Backend](https://skillicons.dev/icons?i=mongodb,firebase&theme=dark)
+## ⚙️ Frameworks & Runtime
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,django&theme=dark)
 
-> + Supabase
+---
 
-### DevOps
-![DevOps](https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark)
+## 🗄️ Backend & Database
+![Backend](https://skillicons.dev/icons?i=mongodb,firebase,aws,gcp&theme=dark)
+
+**+ Supabase (PostgreSQL + Edge Functions)**
+
+---
+
+## ☁️ DevOps & Tools
+![DevOps](https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark)
+
+---
+
+## 🧠 AI & Tools
+- Claude  
+- Codex / Copilot  
+- Gemini API  
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=rashica07&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Streak](https://streak-stats.demolab.com?user=rashica07&theme=tokyonight&hide_border=true)
 
----
-
-
-It’s an attempt to redefine how people:
-- interact  
-- connect  
-- experience the world  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashica07&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
-## 👨‍💻 Founder
-
-**Kristian Gjergji**
-
-Building systems, not just apps.
