@@ -48,7 +48,11 @@ A privacy-first social app focused on **real-world action instead of scrolling**
 
 ## 🗄️ Backend & Database
 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/supabase-icon.svg" width="48"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,gcp,aws&theme=dark" />
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/supabase-icon.png" width="48" />
+</p>
+
 ---
 
 ## ☁️ DevOps & Tools
