@@ -47,10 +47,10 @@ A privacy-first social app focused on **real-world action instead of scrolling**
 ---
 
 ## 🗄️ Backend & Database
+
 ![Backend](https://skillicons.dev/icons?i=mongodb,firebase,aws,gcp&theme=dark)
 
-**+ Supabase (PostgreSQL + Edge Functions)**
-
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/supabase.png" width="48" />
 ---
 
 ## ☁️ DevOps & Tools
