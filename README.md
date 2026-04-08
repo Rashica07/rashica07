@@ -13,7 +13,7 @@
 - 📱 Focused on mobile + backend systems
 - 📚 Learning **TypeScript & deeper architecture**
 - ⚡ Building real-world apps
-
+- 👤 Visit me https://kiqa-dev.it
 ---
 
 ## 🚀 Project
