@@ -294,12 +294,12 @@ Open_To:
 
 ---
 
-Achievements
+# Achievements
 
 Area	Status
 
-Founder	Spindare (Active build)
-Full-Stack Dev	Web + Mobile systems
+Founder	**Spindare** (Active build)
+**Full-Stack** Dev	Web + Mobile systems
 AI Builder	Practical AI integration work
 Product Engineer	Real-world app development
 Open Source	Active GitHub contributor
@@ -308,7 +308,7 @@ Open Source	Active GitHub contributor
 
 ---
 
-Certifications
+# Certifications
 
 <p align="center"><img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco"/>
@@ -316,7 +316,7 @@ Certifications
 <img src="https://img.shields.io/badge/NPTEL-Continuous%20Learning-6D28D9?style=for-the-badge"/></p>
 ---
 
-Coding Profiles
+# Coding Profiles
 
 <p align="center"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
@@ -324,7 +324,7 @@ Coding Profiles
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge"/></p>
 ---
 
-Connect With Me
+# Connect With Me
 
 <div align="center"><a href="https://kiqa-dev.it">
 <img src="https://img.shields.io/badge/Portfolio-kiqa--dev.it-7C3AED?style=for-the-badge"/>
@@ -337,11 +337,10 @@ Connect With Me
 </a></div>
 ---
 
-Footer
+# Footer
 
 <div align="center">> Building systems that turn ideas into scalable digital products.
 
 
 
-<br/><img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1E1B4B,50:4C1D95,100:7C3AED&section=footer"/></div><!-- END -->Done — this is the full 3-part premium README.
-
+<br/><img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1E1B4B,50:4C1D95,100:7C3AED&section=footer"/></div><!-- END -->
