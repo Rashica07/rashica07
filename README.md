@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/Portfolio-kiqa--dev.it-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="mailto:newkiqaa@gmail.com">
-<img src="https://img.shields.io/badge/Email-newkiqaa%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:contact@kiqa-dev.it">
+<img src="https://img.shields.io/badge/Email-contact%40kiqa--dev.it-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rashica07">
@@ -37,9 +37,9 @@
 
 # About Me
 
-I’m Kristian Gjergji — a full-stack developer focused on building real products, not just code.
+I’m Kristian Gjergji — a self-taught, full-stack Gen-Z developer (since 2022) focused on building real products, not just code. (Note: My legal name is Kristian Gjergji, "Rashica07" is just a handle!)
 
-My main project is **Spindare**, a privacy-first platform designed to move people away from endless scrolling and into real-world action.
+My main projects are **KIQA DEV** (a freelance development agency) and **Spindare** (a privacy-first platform designed to move people away from endless scrolling and into real-world action).
 
 I work across:
 - Full-stack web systems
@@ -65,8 +65,8 @@ I care more about building usable, scalable systems than hype or trends.
 ## Contact & Community
 
 - 🌐 Portfolio: https://kiqa-dev.it  
-- 📧 Email: newkiqaa@gmail.com  
-- 💬 Slack: **spindare**  
+- 📧 Email: contact@kiqa-dev.it  
+- 💬 Discord: @kodibkfg
 - 💻 GitHub: https://github.com/rashica07  
 - 🚀 Project: https://github.com/biba-work/Spindare  
 
@@ -74,16 +74,16 @@ I care more about building usable, scalable systems than hype or trends.
 
 # Tech Stack
 
-## Languages
+## Languages & Core Tech
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,dart,cpp,cs,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,rust,lua,html,css&theme=dark"/>
 </p>
 
 ---
 
-## Frontend
+## Frontend & Desktop
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,electron,tauri&theme=dark"/>
 </p>
 
 ---
