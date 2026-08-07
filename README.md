@@ -125,6 +125,31 @@ I care more about building usable, scalable systems than hype or trends.
 
 ---
 
+# KIQA DEV - Services & Selected Work
+
+<details>
+<summary><b>💻 Services (What I build & what it costs)</b></summary>
+<br/>
+
+- **Mobile App (From €799 / 6 weeks)**: Design, build, and store submission handled end to end (React Native, iOS & Android, Supabase).
+- **Landing Page (From €299 / 7 days)**: A fast single page with your copy, brand, and a working contact form (Next.js, 3D visuals).
+- **Web Platform (From €1,299 / 3 weeks)**: User accounts, billing, admin dashboard, and a database that holds up under real traffic.
+- **Custom Backend (From €499 / 2 weeks)**: A documented API, Postgres database, and authentication ready for your frontend.
+</details>
+
+<details>
+<summary><b>🚀 Selected Projects</b></summary>
+<br/>
+
+- **Torre Group (Web)**: Engineered the 2026 platform redesign for Torre Group, creating a unified corporate digital presence. (Next.js, TS)
+- **Spindare (Mobile)**: Co-founding and leading product development for a native iOS social app. (Swift, iOS, Supabase)
+- **LuxHotelSystem (Web SaaS)**: A modern hotel management system interface powered by an external backend API. (Next.js, TS, Supabase)
+- **Onyx Freight Co. (FiveM Server)**: Realistic, high-performance FiveM server based on Qbox with an ETS2-style trucking system. (Lua, MariaDB)
+- **TravelMe (Mobile)**: An app that turns a single message into a full trip itinerary using OpenAI. (React Native, Node.js)
+</details>
+
+---
+
 # AI / ML Expertise
 
 | Domain | Level | Focus |
