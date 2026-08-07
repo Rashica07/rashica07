@@ -34,64 +34,58 @@
 
 </div>
 
-
 ---
 
-# 👋 About Me
+# About Me
 
-I’m **Kristian Gjergji** — a self-taught full-stack Gen-Z developer focused on building real products, scalable systems, and useful software.
+I’m Kristian Gjergji — a self-taught, full-stack Gen-Z developer (since 2022) focused on building real products, not just code.
 
-> My goal is simple: build technology that solves real problems.
+*(Note: My legal name is Kristian Gjergji, "Rashica07" is just a handle!)*
 
-I’m the founder of:
+My main projects are:
 
-- 🚀 **KIQA DEV** — software development & engineering projects
-- 🌎 **Spindare** — a privacy-first action platform designed to move people from endless scrolling into real-world experiences
+- **KIQA DEV** — a freelance development agency focused on modern software solutions
+- **Spindare** — a privacy-first platform designed to move people away from endless scrolling and into real-world action
 
 I work across:
 
 - Full-stack web systems
 - Mobile application development
 - Backend architecture
-- AI-powered products
-- Product design & engineering
+- AI integrations
+- Product design & engineering thinking
 
-
----
-
-# 🔥 Current Focus
-
-| Area | Working On |
-|---|---|
-| 🚀 Product | Scaling Spindare |
-| ⚙️ Backend | API architecture & performance |
-| 📱 Mobile | Mobile-first experiences |
-| 🤖 AI | Practical AI integrations |
-| 🧠 Engineering | Advanced system design |
-
+I care more about building usable, scalable systems than hype or trends.
 
 ---
 
-# 📫 Contact & Community
+# Current Focus
 
-🌐 Portfolio  
-https://kiqa-dev.it
+🟠 Scaling **Spindare**
 
-📧 Email  
-contact@kiqa-dev.it
+🟠 Improving backend architecture & performance
 
-💻 GitHub  
-https://github.com/rashica07
+🟠 Building mobile-first experiences
 
-🚀 Spindare  
-https://github.com/biba-work/Spindare
+🟠 Learning advanced system design patterns
 
+🟠 Exploring AI-powered product features
 
 ---
 
-# 🛠 Tech Stack
+# Contact & Community
 
-## Languages
+- 🌐 Portfolio: https://kiqa-dev.it
+- 📧 Email: contact@kiqa-dev.it
+- 💬 Discord: @kodibkfg
+- 💻 GitHub: https://github.com/rashica07
+- 🚀 Project: https://github.com/biba-work/Spindare
+
+---
+
+# Tech Stack
+
+## Languages & Core Tech
 
 <p align="center">
 
@@ -99,6 +93,7 @@ https://github.com/biba-work/Spindare
 
 </p>
 
+---
 
 ## Frontend & Desktop
 
@@ -108,6 +103,7 @@ https://github.com/biba-work/Spindare
 
 </p>
 
+---
 
 ## Backend & Databases
 
@@ -117,11 +113,331 @@ https://github.com/biba-work/Spindare
 
 </p>
 
+---
 
-## Cloud / DevOps
+## Cloud / DevOps / Tools
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,vscode,bash&theme=dark"/>
 
 </p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Level | Focus |
+|---|---|---|
+| Generative AI | Advanced | LLM integration & product usage |
+| AI APIs | Advanced | OpenAI, Claude, Gemini workflows |
+| Prompt Engineering | Advanced | Structured prompting systems |
+| AI Products | Advanced | Real feature integration into apps |
+| Automation | Advanced | Workflow + backend automation |
+| ML Basics | Intermediate | Core concepts & deployment understanding |
+
+---
+
+# Featured Project — Spindare
+
+<details>
+
+<summary><b>🟠 Spindare — Privacy-First Action Platform</b></summary>
+
+<br/>
+
+## Overview
+
+Spindare is a platform designed to reduce doom-scrolling by pushing users into real-world challenges, actions, and meaningful experiences.
+
+---
+
+| Category | Details |
+|---|---|
+| Stack | Flutter, Node.js, Firebase |
+| Type | Mobile + Backend System |
+| Architecture | Scalable API-driven design |
+| Security | Privacy-first approach |
+| Status | Active development |
+| Repo | https://github.com/biba-work/Spindare |
+
+---
+
+## Core Features
+
+- 🟠 Challenge-based system
+- 🟠 Real-world activity focus
+- 🟠 Minimal data tracking
+- 🟠 Mobile-first UX
+- 🟠 Fast backend API design
+- 🟠 Scalable architecture planning
+
+---
+
+## Engineering Goals
+
+- Reduce latency across feeds
+- Improve offline-first behavior
+- Expand AI-assisted features
+- Strengthen backend modularity
+- Optimize mobile performance
+
+</details>
+
+
+---
+
+# Additional Work
+
+<details>
+
+<summary><b>🟠 KIQA DEV Portfolio Platform</b></summary>
+
+<br/>
+
+## Overview
+
+Personal engineering portfolio showcasing projects, systems, and development focus.
+
+| Category | Details |
+|---|---|
+| Stack | Next.js, TypeScript |
+| Focus | Performance + SEO |
+| Deployment | Production web hosting |
+| Link | https://kiqa-dev.it |
+
+---
+
+## Highlights
+
+- Minimal UI design
+- Fast load performance
+- Mobile optimized
+- SEO structured content
+- Developer branding system
+
+</details>
+
+
+---
+
+<details>
+
+<summary><b>🟠 AI Experiments</b></summary>
+
+<br/>
+
+## Overview
+
+Small AI-based tools and experimental integrations focused on learning, automation, and product development.
+
+| Category | Details |
+|---|---|
+| Stack | Python, APIs |
+| Purpose | Learning + prototyping |
+| Focus | LLM applications |
+
+---
+
+## Work Areas
+
+- API chaining systems
+- AI automation tools
+- Prompt pipelines
+- Prototype applications
+
+</details>
+
+
+---
+
+# Engineering Mindset
+
+I focus on:
+
+- Building usable systems, not demos
+- Clean backend architecture
+- Scalable mobile applications
+- Practical AI integration
+- Fast iteration cycles
+- Real product deployment
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashica07&show_icons=true&theme=dark&bg_color=0B0B0B&title_color=FF7E21&text_color=FFFFFF&icon_color=FFC107&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=rashica07&theme=dark&background=0B0B0B&ring=FF7E21&fire=FFC107&currStreakLabel=FFFFFF&hide_border=true"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashica07&layout=compact&theme=dark&bg_color=0B0B0B&title_color=FF7E21&text_color=FFFFFF&hide_border=true"/>
+
+</div>
+
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rashica07&theme=darkhub&no-frame=true&row=2&column=4"/>
+
+</div>
+
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashica07&bg_color=0B0B0B&color=FFFFFF&line=FF7E21&point=FFC107&area=true&hide_border=true"/>
+
+</div>
+
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rashica07/rashica07/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+---
+
+# Current Focus
+
+## 🧠 Learning
+
+- Advanced TypeScript
+- System Design
+- Scalable Backend Architecture
+- AI Product Engineering
+
+
+## 🚀 Building
+
+- Spindare (core platform)
+- Mobile expansion system
+- Backend scaling infrastructure
+
+
+## 🔎 Exploring
+
+- LLM-powered features
+- Real-time systems
+- Product engineering at scale
+
+
+## 🤝 Open To
+
+- Collaborations
+- Startup projects
+- Freelance engineering work
+- AI integrations
+
+
+---
+
+# Achievements
+
+| Area | Status |
+|---|---|
+| Founder | **Spindare** (Active build) |
+| Full-Stack Developer | Web + Mobile systems |
+| AI Builder | Practical AI integration work |
+| Product Engineer | Real-world app development |
+| Open Source | Active GitHub contributor |
+
+
+---
+
+# Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Learning-FF7E21?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-Networking-FFC107?style=for-the-badge&logo=cisco&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Oracle-Learning-FF7E21?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Continuous%20Learning-FFC107?style=for-the-badge"/>
+
+</div>
+
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-FF7E21?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CodeChef-Profile-FFC107?style=for-the-badge&logo=codechef&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HackerRank-Profile-FF7E21?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-FFC107?style=for-the-badge"/>
+
+</div>
+
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://kiqa-dev.it">
+
+<img src="https://img.shields.io/badge/Portfolio-kiqa--dev.it-FF7E21?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+<a href="mailto:newkiqaa@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-newkiqaa%40gmail.com-FFC107?style=for-the-badge&logo=gmail&logoColor=black"/>
+
+</a>
+
+<a href="https://github.com/rashica07">
+
+<img src="https://img.shields.io/badge/GitHub-rashica07-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+<a href="https://github.com/biba-work/Spindare">
+
+<img src="https://img.shields.io/badge/Spindare-Repo-FF7E21?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+
+---
+
+# Footer
+
+<div align="center">
+
+<br/>
+
+> Building systems that turn ideas into scalable digital products.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B0B0B,40:FF7E21,100:FFC107&section=footer"/>
+
+</div>
