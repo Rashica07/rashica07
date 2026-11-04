@@ -5,7 +5,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=C83246&center=true&vCenter=true&width=700&lines=Software+Developer;Native+%26+Cross-Platform+Apps;Building+OMNI%2C+Spindare+%26+more" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=C83246&center=true&vCenter=true&width=700&lines=Software+Developer;Native+%26+Cross-Platform+Apps;Building+OMNI%2C+FIFTH+%26+more" />
 
 <br />
 
