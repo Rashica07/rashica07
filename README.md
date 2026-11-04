@@ -59,14 +59,6 @@ I’m Kristian — an independent developer building apps, desktop software, web
 
 Claude Code is my main AI-assisted coding tool; I use it as part of the development workflow, alongside direct implementation, testing, and review.
 
-## GitHub programs
-
-GitHub displays certain membership badges directly on a profile when the account qualifies. I’m not adding lookalike badges to this README because they could imply a status that hasn’t been verified.
-
-- [GitHub Student Developer Pack](https://education.github.com/pack) — available to verified students; GitHub does not list it as a standard profile badge.
-- **GitHub Pro** — the `PRO` badge is displayed automatically on your GitHub profile when you have Pro.
-- **GitHub Developer Program** — the member badge is displayed automatically when you’re registered in the program.
-
 ---
 
 <div align="center">
